@@ -1,24 +1,192 @@
-# 💫 About Me:
-"I am a Computer Engineering student at Information Technology University (ITU) Lahore, graduating in May 2026. I have a strong interest in Machine Learning and Deep Learning, and I am passionate about exploring how intelligent systems can solve real-world problems. I am committed to continuously learning and growing in the field of technology."
+# Hi, I'm Muhammad Moiz Ahmad 👋
 
+**Full-Stack Developer · Embedded Systems Engineer · Edge AI**  
+Computer Engineering @ ITU Lahore · AWS Certified · Available for freelance
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Moiz Ahmad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moiz_ahmad.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moiz-ahmad-8922651a7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bsce22029@itu.edu.pk) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BSCE22029&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BSCE22029&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BSCE22029&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BSCE22029&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BSCE22029&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-a855f7?style=for-the-badge&logo=vercel)](https://portfolio-beryl-alpha-59.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz_Ahmad-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moiz-ahmad-8922651a7/)
+[![Email](https://img.shields.io/badge/Email-contact@atronm.com-ea4335?style=for-the-badge&logo=gmail)](mailto:contact@atronm.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BSCE22029&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I build across the full product stack — from web apps and REST APIs down to FPGA implementations and embedded firmware. My background in Computer Engineering means I understand both the software and the hardware, which lets me work on projects most developers can't: running neural networks on microcontrollers, implementing protocols in Verilog, or building real-time dashboards backed by custom embedded sensors.
+
+- 🌐 **Web**: React, Node.js, Express, Supabase, PostgreSQL, JWT Auth
+- ⚙️ **Embedded**: Arduino, STM32, ESP32, C/C++, I2C, SPI, UART
+- 🔌 **HDL**: Verilog, FPGA (Xilinx Artix-7), Vivado, ModelSim
+- 🤖 **Edge AI**: TensorFlow Lite, MFCC, Conv1D, Autoencoders, INT8 quantization
+- 🐍 **AI/ML**: Python, TensorFlow, OpenCV, CNNs, scikit-learn
+
+---
+
+## Featured Projects
+
+### 🌐 Web & SaaS
+
+#### [LeadFlow CRM](https://github.com/BSCE22029/leadflow-crm) — Multi-Tenant B2B CRM SaaS
+> React + Vite · Supabase (Auth, RLS, Realtime) · PostgreSQL · Vercel
+
+Full CRM platform with lead management, email automation, analytics dashboard, and Google OAuth. Supports multiple tenant organizations with row-level security. Features a built-in lead generator that discovers prospects via Clearbit and GitHub APIs.
+
+**Tech highlights**: Row-Level Security policies for multi-tenancy, real-time pipeline updates via Supabase Realtime, streaming lead discovery results.
+
+---
+
+#### [REST API Explorer](https://portfolio-beryl-alpha-59.vercel.app/projects/rest-api-explorer.html) — Full CRUD REST API with JWT Auth
+> Node.js · Express · JWT · bcrypt · PostgreSQL
+
+Complete RESTful API with JWT authentication, role-based access control, and CRUD operations for users and posts. Interactive live demo where you can try every endpoint.
+
+**Endpoints**: `POST /auth/login`, `POST /auth/register`, `GET /api/users`, `POST /api/users`, `PUT /api/users/:id`, `DELETE /api/users/:id`
+
+---
+
+### ⚡ Edge AI & TinyML
+
+#### [TinyML Gesture Classifier](https://portfolio-beryl-alpha-59.vercel.app/projects/gesture-classifier.html) — On-device Neural Network
+> TensorFlow Lite · Arduino Nano 33 BLE Sense · INT8 Quantization · Conv1D
+
+Trained a Conv1D neural network on IMU data (119 frames × 3 axes), quantized it to INT8 (18KB), and deployed it on an Arduino Nano 33 BLE Sense. Classifies 6 hand gestures in 3.2ms with 97.4% accuracy — no WiFi, no cloud, fully on-device.
+
+```
+Model: Input(119×3) → Conv1D(16) → MaxPool → Conv1D(32) → MaxPool → Dense(64) → Softmax(6)
+Size: 18KB (INT8)   Latency: 3.2ms   Accuracy: 97.4%
+```
+
+---
+
+#### [FPGA Neural Network Accelerator](https://portfolio-beryl-alpha-59.vercel.app/projects/nn-accelerator.html) — Systolic Array in Verilog
+> Verilog HDL · Xilinx Artix-7 · Systolic Array · 50MHz
+
+A 4×4 systolic array of Processing Elements (MAC units) implemented in Verilog HDL and synthesized on Xilinx Artix-7. Each PE computes `acc += data * weight` in a pipelined fashion. Achieves 12.8 GOPS for INT8 matrix multiply — the core of neural network inference.
+
+```verilog
+// Core PE: single multiply-accumulate
+acc <= acc + $signed(data_in) * $signed(weight_in);
+```
+
+**Why it matters**: Most ML engineers only work in Python. Building the hardware underneath separates you from the crowd.
+
+---
+
+#### [Edge Anomaly Detector](https://portfolio-beryl-alpha-59.vercel.app/projects/anomaly-detector.html) — Industrial IIoT on ESP32
+> TensorFlow Lite · ESP32 · Autoencoder · ADXL345 Vibration Sensor
+
+Autoencoder neural network that runs on an ESP32 to detect machine faults (bearing damage, rotor imbalance, shaft misalignment) from accelerometer vibration data. Uses reconstruction error as the anomaly score — no labeled fault data needed for training.
+
+```
+Detection Rate: 98.2%   False Positives: <1%   Latency: 12ms   Model: 34KB
+```
+
+---
+
+#### [Keyword Spotter — Wake Word](https://portfolio-beryl-alpha-59.vercel.app/projects/keyword-spotter.html) — "Hey Moiz" on STM32
+> STM32F4 · MFCC · Depthwise Separable CNN · ARM CMSIS-DSP · I2S
+
+Wake word detection running entirely on STM32F4. The audio pipeline: 16kHz PCM → pre-emphasis → STFT → 40-band mel filterbank → DCT → 40×49 MFCC spectrogram → DS-CNN (INT8). Recognizes 8 keywords with 95.3% accuracy in 8ms.
+
+```
+Pipeline: Mic → Pre-emphasis → STFT (25ms/10ms) → 40 Mel filters → DCT → DS-CNN
+Latency: 8ms   Model: 22KB   Accuracy: 95.3%
+```
+
+---
+
+### 🔌 Embedded & Hardware
+
+#### [UART Transceiver](https://portfolio-beryl-alpha-59.vercel.app/projects/uart-simulator.html) — Serial Protocol in Verilog
+> Verilog HDL · 8N1 Frame Format · Configurable Baud Rate · Parity
+
+Full UART transmitter and receiver in Verilog. Configurable baud rate (9600–115200), optional even/odd parity, 8 data bits, 1 stop bit. Simulated in Vivado. The interactive demo lets you type any text and watch each character serialize into bits with a live waveform.
+
+---
+
+#### [PWM Motor Controller](https://portfolio-beryl-alpha-59.vercel.app/projects/pwm-controller.html) — Variable Speed Drive
+> Verilog HDL · Arduino · PWM · H-Bridge Motor Driver
+
+PWM generator in Verilog with configurable duty cycle (0–100%) and frequency (100Hz–16kHz). Uses a counter/comparator approach: `pwm_out = (counter < threshold)`. Demo shows live waveform, motor RPM simulation, and LED brightness control.
+
+---
+
+#### [RISC-V Pipelined Processor](https://github.com/BSCE22029/RISC-V-Microprocessor-pipelined) — 5-Stage Pipeline in Verilog
+> Verilog HDL · RISC-V RV32I · Hazard Detection · Data Forwarding
+
+5-stage pipelined RISC-V processor (IF → ID → EX → MEM → WB) with full hazard detection unit and data forwarding paths. Handles RAW hazards via forwarding and load-use hazards via stalling. Branch prediction with flush.
+
+---
+
+#### [4-Bit ALU Simulator](https://portfolio-beryl-alpha-59.vercel.app/projects/alu-simulator.html) — Interactive ALU
+> Verilog HDL · Vivado · ADD/SUB/AND/OR/XOR/NOT/SHL/SHR · CPU Flags
+
+4-bit ALU with 8 operations, carry lookahead adder, and all CPU status flags (Zero, Carry, Negative, Overflow). Simulated in Vivado. The interactive demo lets you toggle bits and see the result update in real time.
+
+---
+
+#### [RFID Attendance System](https://github.com/BSCE22029/rfid-attendence-system-using-stm32) — STM32 + RC522
+> C · STM32 · SPI · RC522 RFID · UART Logging
+
+Automated attendance system using RC522 RFID reader connected to STM32 via SPI. Each card tap logs a timestamp over UART. Configurable card database stored in flash.
+
+---
+
+#### [Autonomous Robot Car](https://github.com/BSCE22029/line-following-and-obstacle-avoiding-robot-car) — Arduino
+> C++ · Arduino · IR Sensors · Ultrasonic · L298N
+
+Line-following robot with obstacle avoidance. IR sensors for line detection, HC-SR04 ultrasonic for obstacle detection. PID-like speed control for smooth turns.
+
+---
+
+### 🧠 AI & Machine Learning
+
+#### [MNIST Digit Recognition](https://github.com/BSCE22029/MNIST_recognition) — 98%+ CNN
+> Python · TensorFlow · CNN · Jupyter
+
+CNN trained on MNIST achieving 98%+ accuracy. Architecture: Conv2D(32) → MaxPool → Conv2D(64) → MaxPool → Dense(128) → Softmax(10).
+
+---
+
+#### [Snake Game with CV Control](https://github.com/BSCE22029/Snake-game_using-cv) — Hand Gesture Control
+> Python · OpenCV · MediaPipe · Game Dev
+
+Classic Snake game controlled by hand gestures via webcam. Uses MediaPipe hand tracking to detect finger direction and translate it to game input in real time.
+
+---
+
+### 🛠️ Tools & Utilities
+
+#### [Sorting Algorithm Visualizer](https://portfolio-beryl-alpha-59.vercel.app/projects/sorting-visualizer.html) — DSA in Action
+> JavaScript · Bubble · Insertion · Merge · Quick Sort
+
+Animated sorting visualizer with comparison/swap counters, adjustable speed, and full Python + C++ implementations for each algorithm. Useful for DSA interview prep.
+
+---
+
+## Skills at a Glance
+
+| Domain | Technologies |
+|---|---|
+| **Frontend** | React, Vite, TypeScript, Tailwind CSS, HTML/CSS |
+| **Backend** | Node.js, Express, REST APIs, JWT, WebSockets |
+| **Database** | PostgreSQL, Supabase, SQLite |
+| **Embedded** | Arduino, STM32, ESP32, C/C++, FreeRTOS |
+| **HDL** | Verilog, Xilinx Vivado, ModelSim, Artix-7 |
+| **Edge AI** | TFLite, CMSIS-NN, MFCC, INT8 quantization |
+| **AI/ML** | Python, TensorFlow, Keras, OpenCV, scikit-learn |
+| **DevOps** | Git, GitHub, Vercel, AWS (Certified) |
+
+---
+
+## GitHub Stats
+
+![Moiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BSCE22029&show_icons=true&theme=midnight-purple&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BSCE22029&layout=compact&theme=midnight-purple&hide_border=true)
+
+---
+
+## Let's Work Together
+
+I'm available for freelance projects and open to full-time opportunities in embedded systems, full-stack development, or Edge AI.
+
+📧 **contact@atronm.com** · 💼 [LinkedIn](https://www.linkedin.com/in/moiz-ahmad-8922651a7/) · 🌐 [Portfolio](https://portfolio-beryl-alpha-59.vercel.app)
